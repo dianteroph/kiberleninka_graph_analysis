@@ -1,2 +1,2 @@
-### Graph analysis of articles:
-## Kiberleninka website case.
+## Graph analysis of articles:
+### Kiberleninka website case.
